@@ -1,0 +1,554 @@
+/* 图册一 */
+
+/* 第一块  */
+#tip_ct{
+	margin-bottom: 45px;
+	height: 180px;
+}
+#tip_ct .tip_word1{
+	margin: 21px 0;
+    font-size: 14px;
+    color: #414141;
+}
+#tip_ct #tip_bg{
+	background:  url(../img/index/tip1.jpg) 0 0 no-repeat;
+	height: 112px;
+	position: relative;
+}
+#tip_ct #tip_bg span{
+	color: #fff;
+	font-size: 18px;
+	position: absolute;
+	top: 70px;
+	left: 150px;
+	font-size: bold;
+}
+#tip_ct #tip_bg img{
+	position: absolute;
+	top: 40px;
+	left: 20px;
+	border: 1px solid #fff;
+}
+#tip_ct #tip_bg .tip_word2{
+	font-size: 18px;
+	color: #3c3c3c;
+	position: absolute;
+	left:150px;
+	top: 132px;
+	font-weight: bold;
+}
+#atlas #con1{
+	width: 1000px;
+	margin: 0 auto 60px;
+}
+/* 第二块 */
+#atlas #con2{
+	width: 1020px;
+	margin: 10px auto;
+}
+#atlas #con2 li{
+	width: 322px;
+	height: 228px;
+	padding-left: 10px;
+	position: relative;
+	margin-bottom: 20px;
+}
+#atlas #con2 .img .bd1{
+	width: 307px;
+	height: 214px;
+	border: 3px solid #8BB58B;
+	position: absolute;
+	left: 10px;
+	top: 0;
+	z-index: 20;
+	display: none;
+}
+#atlas #con2 li .bd2{
+	width: 308px;
+	height: 215px;
+	border: 5px solid #DCDCDC;
+	position: absolute;
+	left: 15px;
+	top: 5px;
+	border-top: none;
+	border-left: none;
+}
+#atlas #con2 li .bd3{
+	width: 308px;
+	height: 215px;
+	border: 4px solid #BFBFBF;
+	position: absolute;
+	left: 19px;
+	top: 9px;
+	border-top: none;
+	border-left: none;
+}
+#atlas #con2 li .mask1{
+	height: 47px;
+	width: 313px;
+	background: #4E5258;
+	opacity: 0.6;
+	position: absolute;
+	left: 10px;
+	bottom: 9px;
+}
+#atlas #con2 li .word{
+	width: 300px;
+	font-size: 12px;
+	color: #fff;
+	position: absolute;
+	left: 20px;
+	bottom: 13px;
+	overflow: hidden;
+}
+#atlas #con2 li .word .wz{
+	float: left;
+	text-align: center;
+}
+#atlas #con2 li .word .wy{
+	float: right;
+	overflow: hidden;
+}
+#atlas #con2 li .word .wy p{
+	margin: 26px 0 4px;
+}
+#atlas #con2 li .word .wy div,#atlas #con2 li .word .wy img{
+	float: left;
+	margin-right: 10px;
+}
+#atlas #con2 li .word .wy img{
+	margin-top: 2px;
+}
+#atlas #con2 li .word .wy .word1{
+	margin-right: 20px;
+}
+#atlas #con2 li .three{
+	width: 77px;
+	position: absolute;
+	left: 0;
+	top: 11px;
+	z-index: 999;
+	overflow: hidden;
+	display: none;
+}
+#atlas #con2 .img:hover .bd1,#atlas #con2 .img:hover .three{
+	display: block;
+}
+#atlas #con2 li .three .ou{
+	float: left;
+	height: 34px;
+	line-height: 24px;
+	font-size: 16px;
+	color: #fff;
+	text-align: center;
+	width: 54px;
+	background:  url(../img/atlas1/2.png) 0 0 repeat-x;
+}
+#atlas #con2 li .three img{
+	float: left;
+}
+#atlas #con2 .img2{
+	margin: 0 12px;
+}
+#atlas #remen{
+	width: 214px;
+	font-size: 28px;
+	font-weight: bold;
+	color: #3C3C3C;
+	border: 2px solid #51B23E;
+	line-height: 32px;
+	padding: 3px 20px;
+	margin-bottom: 22px;
+	margin-left: 10px;
+}
+
+/* 图册2 */
+#atlas2  #con{
+	width: 1000px;
+	margin: 15px auto;
+}
+#atlas2 #con1 p{
+	margin: 21px 0;
+    color: #414141;
+}
+#atlas2 #con1 .kd{
+	overflow: hidden;
+	border-bottom: 2px solid #51B23E;
+	padding-bottom: 8px;
+}
+#atlas2 #con1 .kd h2{
+	font-size: 18px;
+	float: left;
+	margin-left: 20px;
+}
+#atlas2 #con1 .kd img{
+	float: right;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+#atlas2 #con1 .kd div{
+	float: right;
+	font-size: 12px;
+	margin-right: 20px;
+	line-height: 24px;
+}
+#atlas2 #con1 .kd a{
+	float: right;
+	font-size: 16px;
+	color: #5FB74F;
+	margin-right: 0;
+	text-decoration: underline;
+}
+#atlas2 #con2{
+	overflow: hidden;
+	margin-top: 20px;
+}
+#atlas2 #con2z{
+	float: left;
+	width: 700px;
+	position: relative;
+}
+.z1{
+	width: 700px;
+	height: 437px;
+	overflow: hidden;
+}
+.inner{
+	width: 20000px;
+	height: 437px;
+	overflow: hidden;
+}
+.inner img{
+	float: left;
+	width: 700px;
+	height: 437px;
+}
+.left{
+	position: absolute;
+	left: 15px;
+	top: 200px;
+	cursor: pointer;
+}
+.right{
+	position: absolute;
+	right: 15px;
+	top: 200px;
+	cursor: pointer;
+}
+.mask{
+	width: 699px;
+	height: 50px;
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	left: 0;
+	top: 386px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 50px;
+	color: #fff;
+}
+.clear{
+	overflow: hidden;
+}
+.z2z{
+	float: left;
+	margin: 0 21px;
+}
+.z2z p{
+	font-weight: bold;
+	text-align: center;
+	margin: 18px 0;
+}
+#con2z .pl{
+	height: 38px;
+    line-height: 38px;
+    font-size: 18px;
+    background: #51b23e;
+    color: #fff;
+    padding-left: 20px;
+    margin:30px 0 20px;
+}
+.z2 .z2y{
+	float: right;
+	position: relative;
+}
+.z2 .z2y1{
+	width: 586px;
+	height: 98px;
+	margin: 0 auto;
+	border: 1px solid #6E6E6E;
+}
+.z2y .p1{
+	font-size: 12px;
+	position: absolute;
+	left: 150px;
+	top: 20px;
+}
+.z2y .p2{
+	font-size: 12px;
+	position: absolute;
+	left: 230px;
+	top: 40px;
+}
+.z2y .p2{
+	color: #ffa000;
+	text-decoration: underline;
+	margin-top: 10px;
+	cursor: pointer;
+}
+.p3{
+	margin: 10px 0;
+	text-align: right;
+}
+.p4{
+	font-size: 14px;
+	width: 80px;
+	height: 25px;
+	line-height: 25px;
+	color: #fff;
+	background: #5AB4F5;
+	border-radius: 5px;
+	text-align: center;
+	float: right;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+#con2z p{
+	line-height: 20px;
+}
+.z4y1{
+	margin: 40px 0 20px;
+	border: 1px dashed #898989;
+	border-left: none;
+	border-right: none;
+	padding: 3px;
+	text-align: center;
+	line-height: 25px;
+	height: 25px;
+}
+.z4y1 span{
+	color: #6e6e6e;
+	float: left;
+	font-size: 14px;
+}
+.z4y1 .zan{
+	float: right;
+	background: url(../img/atlas2/zan.png) 0 0 no-repeat;
+	height: 25px;
+	width: 83px;
+}
+.z4y1 .pinglun{
+	float: right;
+	background: url(../img/atlas2/pingl.jpg) 0 5px no-repeat;
+	height: 25px;
+	width: 83px;
+}
+.z4y1 em{
+	margin: 0 27px;
+	color: #898989;
+}
+.z4y1 var{
+	float: right;
+	color: #176fbb;
+	font-size: 14px;
+}
+.c_left_bottom2_content_b{
+	overflow: hidden;
+	margin-left: 110px;
+}
+.c_left_bottom2_content_b .pppp{
+	position: relative;
+	display: none;
+}
+.c_left_bottom2_content_b .z44{
+	display: none;
+}
+.c_left_bottom2_content_left{
+	float: left;
+}
+.c_left_bottom2_content_left img{
+	margin: 20px 20px 10px 0;
+	width: 50px;
+	height: 50px;
+}
+.c_left_bottom2_content_left .fashion{
+	font-size: 12px;
+	font-weight: bold;
+}
+.c_left_bottom2_content_right{
+	overflow: hidden;
+}
+.c_left_bottom2_content_right div{
+	padding: 15px 0;
+	font-size: 14px;
+	font-weight: bold;
+}
+.c_left_bottom2_content_right span{
+	color: #6e6e6e;
+	float: left;
+	font-size: 14px;
+	line-height: 43px;
+}
+.c_left_bottom2_content_right var{
+	color: #176fbb;
+	float: left;
+	font-size: 14px;
+	line-height: 43px;
+	padding-left: 10px;
+}
+.c_left_bottom2_content_right_bian{
+	height: 60px;
+	width: 518px;
+	margin-left: 70px;
+	border: 1px solid #6e6e6e;
+	position: relative;
+}
+.pppp img{
+	position: absolute;
+	left: 285px;
+	top: -41px;
+	display: none;
+}
+.pppp span{
+	font-size: 12px;
+	color: #6E6E6E;
+	position: absolute;
+	left: 323px;
+	top: -34px;
+	display: none;
+}
+
+#page{
+	width: 300px;
+	margin: 10px auto 23px;
+	overflow: hidden;
+}
+#page li{
+	padding: 3px;
+	margin-right: 5px;
+
+}
+#page ol{
+	float: left;
+}
+#page .tsh:hover{
+	background: #6E6E6E;
+	color: #fff;
+}
+#borr{
+	border-bottom: 1px solid #C0C0C0;
+	margin-bottom: 30px;
+}
+#atlas2 #con2y .y11 div{
+	float: left;
+}
+#atlas2 #con2y h2{
+	margin: 6px 0;
+	font-size: 14px;
+}
+#atlas2 #con2y p{
+	margin-left: 5px;
+	font-weight: bold;
+}
+#atlas2 #con2y .y12{
+	border: 1px solid #C8C8C8;
+	border-left: none;
+	border-right: none;
+	padding: 7px 12px;
+}
+#atlas2 #con2y li{
+	margin-top: 18px;
+	position: relative;
+	margin-left: 5px;
+}
+#atlas2 #con2y .y11 .shsh{
+	margin-right: 20px;
+}
+#atlas2 #con2y .y12 .ff{
+	float: left;
+	text-align: center;
+	line-height: 25px;
+	margin-right: 12px;
+}
+#atlas2 #con2y .y12 .ff img,#atlas2 #con2y .y12 .ff div{
+	float: left;
+}
+#atlas2 #con2y .y12 .kk{
+	border: 1px solid #727272;
+	border-radius: 7px;
+	width: 70px;
+	height: 25px;
+}
+#atlas2 #con2y .y12 .kk img{
+	margin: 6px 9px;
+}
+#atlas2 #con2y .y12 .zz img{
+	margin: 6px 9px;
+}
+#atlas2 #con2y .mask div{
+	float: left;
+}
+#atlas2 #con2y{
+	float: left;
+	width: 270px;
+	margin-left: 30px;
+}
+#atlas2 #con2y .ys{
+	border: 1px solid #C8C8C8;
+}
+#atlas2 #con2y .y11,#atlas2 #con2y .y13{
+	padding: 15px 20px;
+}
+#atlas2 #con2y .yx{
+	border: 1px solid #C8C8C8;
+	padding: 30px 20px;
+	margin-top: 20px;
+}
+#atlas2 #con2y .mask{
+	height: 29px;
+	width: 213px;
+	background: rgba(0,0,0,0.5);
+	position: absolute;
+	left: 0;
+	bottom: 4px;
+	color: #fff;
+}
+#atlas2 #con2y .mask .aa{
+	margin: 7px 10px 6px 79px;
+}
+#atlas2 #con2y .mask .bb{
+	margin: 7px 10px 6px 20px;
+}
+#atlas2 #con2y  .mask .cc{
+	line-height: 29px;
+}
+
+/* denglu */
+body{
+	position: relative;
+}
+#login{
+	width: 360px;
+	height: 240px;
+	position: fixed;
+	left: 50%;
+	top: 50%;
+	margin-left: -180px;
+	margin-top: -120px;
+	background: pink;
+	text-align: center;
+	line-height: 30px;
+	font-size: 16px;
+	z-index: 9999;
+	display: none;
+	padding-top: 20px;
+}
+#login input{
+	margin: 20px;
+	height: 30px;
+}
+#login button{
+	padding: 5px 8px;
+	font-size: 20px;
+	margin: 10px;
+}

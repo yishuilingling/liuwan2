@@ -1,0 +1,590 @@
+#hotel1 #con{
+	width: 1000px;
+	margin: 0 auto;
+}
+.clear{
+	overflow: hidden;
+}
+#hotel1 #cons p{
+	margin: 21px 0;
+    color: #414141;
+}
+
+#hotel1 #cons .price{
+	margin: 18px 0;
+	padding: 14px 0;
+	font-weight: bold;
+	border: 1px dashed #898989;
+	border-left: none;
+	border-right: none;
+}
+#hotel1 #cons .diqu span{
+	font-size: 16px;
+	font-weight: bold;
+	border: 1px solid #fff;
+	border-radius: 7px;
+	padding: 2px 25px;
+	margin: 0 20px;
+}
+#hotel1 #cons .fx span{
+	padding: 2px 25px;
+	margin-left: 26px;
+	margin-right: 9px;
+	color: #000;
+	font-weight: bold;
+}
+#hotel1 #cons .price .pri1{
+	margin-left: 67px;
+}
+#hotel1 #cons .price .pri2{
+	margin-left: 55px;
+}
+#hotel1 #cons .price .pri3{
+	margin-left: 35px;
+}
+#hotel1 #cons .price .pri4{
+	margin-left: 27px;
+}
+#hotel1 #cons .price .pri5{
+	margin-left: 19px;
+}
+#hotel1 #cons var{
+	font-size: 18px;
+	font-weight: bold;
+	padding-left: 0;
+	margin-left: 0;
+}
+#hotel1 #cons .price em{
+	font-weight: bold;
+}
+#hotel1 #cons .show{
+	font-size: 16px;
+	font-weight: bold;
+	padding: 2px 25px;
+	margin-left: 20px;
+}
+#hotel1 #cons .fx{
+	float: left;
+	width: 855px;	
+	padding-bottom: 14px;
+	border-bottom: 1px solid #6E6E6E;
+}
+#hotel1 #cons .reset{
+	margin-top: 18px;
+	text-decoration: underline;
+	float: right;
+	cursor: pointer;
+}
+
+#hotel1 #kk{
+	height: 38px;
+	margin: 30px 0 6px;
+	background: #FFA000;
+	text-align: center;
+	line-height: 38px;
+}
+#hotel1 #kk p{
+	float: right;
+	width: 130px;
+	color: #fff;
+	font-size: 16px;
+}
+#hotel1 #kk .tj,#hotel1 #kk .jw{
+	float: left;
+	width: 102px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: bold;
+}
+#hotel1 #kk .jw h2{
+	font-size: 18px;
+	float: left;
+}
+#hotel1 #kk .jw div{
+	float: left;
+	padding: 9px 3px;
+}
+#hotel1 #kk .jw div img{
+	display: block;
+	margin: 4px;
+}
+
+#hotel1 #fzs .fz1{
+	padding: 24px 0;
+	border-top: 1px solid #FFC768;
+}
+
+#hotel1 #fzs .fz1z,#hotel1 #fzs .fz1y{
+	float: left;
+	position: relative;
+	margin-bottom: 24px;
+}
+#hotel1 #fzs .fz1z .inner{
+	position: relative;
+	width: 313px;
+	height: 220px;
+}
+#hotel1 #fzs .fz1z .inner li{
+	position: absolute;
+	left: 0;
+	top: 0;
+	opacity: 0;
+	display: none;
+}
+#hotel1 #fzs .fz1z .left{
+	position: absolute;
+	top: 90px;
+	left: 10px;
+	cursor: pointer;
+}
+#hotel1 #fzs .fz1z .right{
+	position: absolute;
+	top: 90px;
+	right: 10px;
+	cursor: pointer;
+}
+#hotel1 #fzs .fz1y .zfd{
+	float: left;
+}
+#hotel1 #fzs .fz1y .zfd h2{
+	float: left;
+}
+#hotel1 #fzs .fz1y .yfd{
+	float: right;
+}
+#hotel1 #fzs .fz1y .fz1y1{
+	padding-bottom: 5px;
+	border-bottom: 1px dashed #A6A6A6;
+}
+#hotel1 #fzs .fz1y .fz1y1 h2{
+	font-size: 16px;
+	margin-right: 15px;
+}
+#hotel1 #fzs .fz1y .fz1y1 img{
+	float: left;
+	margin-right: 5px;
+}
+#hotel1 #fzs .fz1y .fz1y1 div{
+	line-height: 15px;
+	margin-right: 26px;
+}
+#hotel1 #fzs .fz1y .yfd div{
+	float: left;
+}
+#hotel1 #fzs .fz1y{
+	width: 659px;
+	height: 188px;
+	padding:  15px 0 16px 28px;
+	background: #F0F0F0;
+}
+#hotel1 #fzs .fz1y2 p{
+	margin: 15px 96px 15px 0;
+}
+
+#hotel1 #fzs .fz1y2 span{
+	font-weight: bold;
+	word-spacing: 2em;
+	padding-right: 10px;
+}
+#hotel1 #fzs .fz1y2 .suojin var{
+	display: block;
+	width: 483px;
+	float: left;
+	line-height: 25px;
+}
+#hotel1 #fzs .fz1y2 .suojin span{
+	display: block;
+	float: left;
+}
+#hotel1 #fzs .fz1y .fuwu span,#hotel1 #fzs .fz1y .fuwu img,#hotel1 #fzs .fz1y .fuwu div{
+	float: left;
+}
+#hotel1 #fzs .fz1y .fuwu div{
+	margin:0 20px 0 6px ;	
+}
+#hotel1 #fzs .gh6{
+	width: 1003px;
+	height: 31px;
+	border-right: 1px solid #c8c8c8;
+	margin-top: 20px;
+	background-color: #eeeeee;
+	overflow: hidden;
+}
+#hotel1 #fzs .gh6 span{
+	display: inline-block;
+	border-right: 1px solid white;
+	width: 100px;
+	height: 31px;
+	text-align: center;
+	line-height: 31px;
+	font-size: 16px;
+	font-weight: bolder;
+	float: left;
+}
+#hotel1 #fzs .gh6 .sd{
+	margin-left: 260px;
+	border-left: 1px solid white;
+}
+
+#hotel1 #fzs .gh7{
+	height: 190px;
+	border-right: 1px solid #c8c8c8;
+	border-bottom: 1px dashed #090909;
+	overflow: hidden;
+}
+#hotel1 #fzs .gh7 img{
+	margin-top: 16px;
+}
+#hotel1 #fzs .gh7 span,#hotel1 #fzs .gh7 var{
+	display: inline-block;
+	height: 190px;
+	line-height: 190px;
+	width: 100px;
+	text-align: center;
+	border-right: 1px solid #c8c8c8;
+}
+#hotel1 #fzs .gh7 span,#hotel1 #fzs .gh7 img{
+	float: left;
+}
+#hotel1 #fzs .gh7 .asd{
+	margin-left: 31px;
+	border-left: 1px solid #c8c8c8;
+}
+#hotel1 #fzs .gh7 span{
+	font-size: 14px;
+	font-weight: bolder;
+}
+#hotel1 #fzs .gh7 .thl{
+	text-decoration: line-through;
+}
+#hotel1 #fzs .gh7 var{
+	font-size: 24px;
+	color: red;
+	font-weight: bolder;
+}
+#hotel1 #fzs .gh7 em{
+	font-size: 14px;
+	color: white;
+	background-color: #ffa000;
+	padding: 5px 31px 5px 31px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-left: 20px;
+}
+#hotel1 #fzs .gh8{
+	height: 190px;
+	border-right: 1px solid #c8c8c8;
+	border-bottom: 1px solid #090909;
+	overflow: hidden;
+}
+#hotel1 #fzs .gh8 img{
+	margin-top: 16px;
+}
+#hotel1 #fzs .gh8 span,#hotel1 #fzs .gh8 var{
+	display: inline-block;
+	height: 190px;
+	line-height: 190px;
+	width: 100px;
+	text-align: center;
+	border-right: 1px solid #c8c8c8;
+}
+#hotel1 #fzs .gh8 span,#hotel1 #fzs .gh8 img{
+	float: left;
+}
+#hotel1 #fzs .gh8 .asd{
+	margin-left: 31px;
+	border-left: 1px solid #c8c8c8;
+}
+#hotel1 #fzs .gh8 span{
+	font-size: 14px;
+	font-weight: bolder;
+}
+#hotel1 #fzs .gh8 .thl{
+	text-decoration: line-through;
+}
+#hotel1 #fzs .gh8 var{
+	font-size: 24px;
+	color: red;
+	font-weight: bolder;
+}
+#hotel1 #fzs .gh8 em{
+	font-size: 14px;
+	color: white;
+	background-color: #ffa000;
+	padding: 5px 31px 5px 31px;
+	border-radius: 5px;
+	display: inline-block;
+	margin-left: 20px;
+}
+
+#page{
+	width: 300px;
+	margin: 10px auto 23px;
+	overflow: hidden;
+}
+#page li{
+	padding: 3px;
+	margin-right: 5px;
+}
+#page ol{
+	float: left;
+}
+#page .tsh:hover{
+	background: #6E6E6E;
+	color: #fff;
+}
+
+
+/*  hotel2*/
+#hotel2 #con{
+	width: 1000px;
+	margin: 0 auto;
+}
+#hotel2 #cons p{
+	margin: 21px 0;
+    color: #414141;
+}
+#hotel2 #cons .cons1 .zfd{
+	float: left;
+	line-height: 37px;
+}
+#hotel2 #cons .cons1 .zfd img{
+	margin-top: 11px;
+}
+#hotel2 #cons .cons1 .zfd h2{
+	float: left;
+	font-size: 28px;
+	margin: 0 22px 22px 10px;
+}
+#hotel2 #cons .cons1 .yfd{
+	float: right;
+	margin-top: 15px;
+}
+#hotel2 #cons .cons1 .cons11{
+	padding-bottom: 5px;
+	border-bottom: 1px dashed #A6A6A6;
+}
+#hotel2 #cons .cons1 .yfd img,#hotel2 #cons .cons2y .xhxh img{
+	float: left;
+	margin-right: 5px;
+}
+#hotel2 #cons .cons1 .yfd div,#hotel2 #cons .cons2y .xhxh div{
+	float: left;
+	line-height: 15px;
+	margin-right: 26px;
+}
+#hotel2 #cons .cons1 .yfd div{
+	float: left;
+}
+#hotel2 #cons .cons2 .top{
+	float: left;
+	margin-right: 30px;
+}
+#hotel2 #cons .cons2 .cons2y{
+	width: 410px;
+	float: left;
+	padding: ;
+}
+#hotel2 #cons .cons2y .fuwu span,#hotel2 #cons .cons2y .fuwu img,#hotel2 #cons .cons2y .fuwu div{
+	float: left;
+}
+#hotel2 #cons .cons2y span{
+	font-weight: bold;
+    word-spacing: 2em;
+    padding-right: 10px;
+}
+#hotel2 #cons .cons2y .suojin span{
+	float: left;
+}
+#hotel2 #cons .cons2y .suojin var{
+	display: block;
+    width: 280px;
+    float: left;
+    line-height: 20px;
+    padding-bottom: 60px;
+}
+#hotel2 #cons .cons2y p{
+	border: 1px dashed #A6A6A6;
+	border-right: none;
+	border-left: none;
+	padding: 13px 0;
+	margin: 0 0;
+}
+#hotel2 #cons .cons2y .fuwu{
+	padding: 13px 0;
+}
+#hotel2 #cons .cons2y .fuwu div{
+	margin: 0 20px 0 6px;
+}
+#hotel2 #cons .cons2y .xhxh{
+	float: right;
+	margin-top: 10px;
+}
+#hotel2 #con .cons3{
+	position: relative;
+	padding: 20px 0;
+	border-bottom: 1px solid #9A9A9A;
+}
+#hotel2 #con .outer{
+	width: 1000px;
+	height: 160px;
+	overflow: hidden;
+}
+
+#hotel2 #con .inner{
+	width: 3000px;
+	height: 160px;
+}
+#hotel2 #con .inner .inner1,#hotel2 #con .inner .inner2{
+	float: left;
+}
+#hotel2 #con .inner img{
+	float: left;
+	width: 229px;
+	height: 160px;
+	padding-right: 28px;
+}
+#hotel2 #con .left{
+	position: absolute;
+	left: 5px;
+	top: 40px;
+	cursor: pointer;
+}
+#hotel2 #con .right{
+	position: absolute;
+	right: 5px;
+	top: 40px;
+	cursor: pointer;
+}
+
+#hotel2 #con #conxz{
+	width: 700px;
+}
+#hotel2 #con #conxz .bj ul{
+	height: 233px;
+	width: 690px;
+	margin-top: 28px;
+}
+#hotel2 #con #conxz .bj ul h4{
+	background: #FFA000;
+	height: 38px;
+	line-height: 38px;
+	text-align: center;
+	color: #fff;
+	font-size: 16px;
+	border-right: 1px solid #fff;
+}
+#hotel2 #con #conxz .bj ul img{
+	display: block;
+	padding: 20px 5px 20px 0;
+	margin-left: -20px;
+}
+#hotel2 #con #conxz .bj ul p{
+	height: 193px;
+	line-height: 193px;
+	padding: 0 18px;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+#hotel2 #con #conxz .bj ul .jg{
+	padding-top: 70px;
+	line-height: 30px;
+	height: 123px;
+}
+
+#hotel2 #con #conxz .bj ul .jg em{
+	color: #cc0000;
+	font-size: 24px;
+}
+#hotel2 #con #conxz .bj ul .jg span{
+	padding-left: 8px;
+	text-decoration: line-through;
+}
+#hotel2 #con #conxz .bj ul .fj{
+	border-color: #FFA000;
+}
+#hotel2 #con #conxz .bj .yinc{
+	border: 1px solid #D5D5D5;
+	padding: 20px;
+	border-top: none;
+	width: 647px;
+	display: none;
+}
+#hotel2 #con #conxz .bj .yinc p{
+	line-height: 20px;
+}
+#hotel2 #con #conxz .bj .yfd{
+	float: right;
+	padding: 20px 0;
+	font-size: 12px;
+}
+#hotel2 #con #conxz .bj .yfd em{
+	margin: 0 15px;
+	display: inline-block;
+	width: 100px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	border-radius: 8px;
+	color: #fff;
+	background: #FFA000;
+	font-size: 14px;
+}
+#hotel2 #con #conxz .bj .yfd span{
+	color: #cc0000;
+	margin-right: 10px;
+}
+.pl{
+	height: 38px;
+    line-height: 38px;
+    font-size: 18px;
+    background: #FFA000;
+    color: #fff;
+    padding-left: 20px;
+    margin:5px 0 20px;
+}
+#conxz,#conxy{
+	float: left;
+}
+#conxy{
+	width: 270px;
+	margin-left: 30px;
+	margin-top: 25px;
+}
+#conxy ul{
+	border: 1px solid #999999;
+}
+#conxy ul img{
+	float: left;
+	margin-right: 15px;
+}
+#conxy ul .rr{
+	float: left;
+}
+#conxy ul li{
+	padding: 15px 0 15px 20px;
+}
+#conxy ul .rr p{
+	font-size: 12px;
+}
+#conxy ul .xx img{
+	float: left;
+	width: 12px;
+	height: 12px;
+	margin: 3px 0;
+}
+#conxy ul .rr .xihuan{
+	background:  url(../img/index/2.png) 0 2px no-repeat;
+	margin-top: 5px;
+	float: left;
+}
+#conxy ul .rr .plun{
+	background:  url(../img/index/3.png) 0 2px no-repeat;
+	float: left;
+	margin-top: 5px;
+	margin-left: 26px;
+}
+#conxy ul .rr em{
+	margin-left: 20px;
+	display: inline-block;
+}
